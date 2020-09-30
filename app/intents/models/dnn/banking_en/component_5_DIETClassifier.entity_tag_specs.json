@@ -1,0 +1,52 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-creditCard",
+      "2": "I-creditCard",
+      "3": "L-creditCard",
+      "4": "U-creditCard",
+      "5": "B-duration",
+      "6": "I-duration",
+      "7": "L-duration",
+      "8": "U-duration",
+      "9": "B-payee",
+      "10": "I-payee",
+      "11": "L-payee",
+      "12": "U-payee",
+      "13": "B-paymentAmount",
+      "14": "I-paymentAmount",
+      "15": "L-paymentAmount",
+      "16": "U-paymentAmount",
+      "17": "B-vendorName",
+      "18": "I-vendorName",
+      "19": "L-vendorName",
+      "20": "U-vendorName",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-creditCard": 1,
+      "I-creditCard": 2,
+      "L-creditCard": 3,
+      "U-creditCard": 4,
+      "B-duration": 5,
+      "I-duration": 6,
+      "L-duration": 7,
+      "U-duration": 8,
+      "B-payee": 9,
+      "I-payee": 10,
+      "L-payee": 11,
+      "U-payee": 12,
+      "B-paymentAmount": 13,
+      "I-paymentAmount": 14,
+      "L-paymentAmount": 15,
+      "U-paymentAmount": 16,
+      "B-vendorName": 17,
+      "I-vendorName": 18,
+      "L-vendorName": 19,
+      "U-vendorName": 20,
+      "O": 0
+    },
+    "num_tags": 21
+  }
+]

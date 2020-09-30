@@ -1,0 +1,19 @@
+book,reserve
+flight,airlines,carriers
+gluco,glucose
+glucometer,glucosemeter
+saving,savings
+checking,checkings
+coupon,coupons
+features,services
+discount,discounts
+transaction,transactions
+deals,offer,offers
+product,products
+EMI,monthly instalment
+mobile,phone
+FD,fixed deposit
+money,fund
+account,acct
+bal,balance
+contry,region,state,geo

@@ -1,0 +1,1 @@
+{"0": "addBeneficiary", "1": "affirm", "2": "askTransferCharge", "3": "checkBalance", "4": "checkCreditCardBalance", "5": "checkEarnings", "6": "checkRecipients", "7": "deny", "8": "goodbye", "9": "greet", "10": "inform", "11": "makePayment", "12": "searchTransactions", "13": "thankyou", "14": "transferMoney"}

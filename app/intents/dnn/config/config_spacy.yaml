@@ -1,0 +1,21 @@
+language: en
+
+pipeline:
+- name: SpacyNLP
+  model: "en_core_web_sm"
+- name: SpacyTokenizer
+- name: SpacyEntityExtractor
+- name: SpacyFeaturizer
+  pooling: mean
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
+  min_ngram: 1
+  max_ngram: 2
+- name: DIETClassifier
+  epochs: 100
+- name: EntitySynonymMapper
+
+policies:
+  - name: MemoizationPolicy
+  - name: KerasPolicy
+  - name: MappingPolicy

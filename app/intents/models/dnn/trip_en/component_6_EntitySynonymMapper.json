@@ -1,0 +1,8 @@
+{
+  "reservation": "booking",
+  "book": "booking",
+  "reserve": "booking",
+  "airlines": "flight",
+  "carrier": "flight",
+  "carriers": "flight"
+}
