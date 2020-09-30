@@ -20,7 +20,7 @@ $ docker build . -t aria_nlp:latest
 ```
 - Run the docker 
 ```sh
-$ docker run -it  -d -p 5001:5001 ariabot:latest
+$ docker run -it  -d -p 5001:5001 aria_nlp:latest
 ```
 - If your installation is successful, you should see the container running using following command
 ```sh
