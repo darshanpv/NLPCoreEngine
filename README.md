@@ -1,5 +1,6 @@
 # State-of-the-Art NLP Engine for intent classification and entity recognition – SPACY, DIET ,BERT Classifier
 
+**IMPORTANT** - This is old repository. You may want to refere to the new repository [here][url5].
 The NLP engine is highly flexible and customizable.  You can create your own NLP pipeline as per your need. The NLP engine runs on top of open source RASA NLU core that provides range of configuration that meet most of your NLP needs. You can take a look at how to configure your own pipeline [here][url1]
 
 Based on my experience DIET classifier seems to be much faster to train, accurate and serves to find both intent and entities.
@@ -118,3 +119,4 @@ MIT
    [url2]: <https://docs.docker.com/install/>
    [url3]: <https://legacy-docs.rasa.com/docs/nlu/0.15.1/dataformat/>
    [url4]: <https://rasa.com/docs/rasa/components>
+   [url5]: <https://github.com/darshanpv/Rasa_NLU>
